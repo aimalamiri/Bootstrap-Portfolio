@@ -1,0 +1,30 @@
+header {
+  background-image: url("./assets/header.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 90vh;
+}
+
+.icon {
+  width: 25px;
+  height: 25px;
+  margin-right: 10px;
+}
+
+.icons {
+  list-style-type: none;
+}
+
+.about {
+  border-top-right-radius: 90px;
+}
+
+.contact {
+  border-top-left-radius: 90px;
+  background-image: url(./assets/contact-section.png);
+  height: 80vh;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: bottom left ;
+
+}
