@@ -18,3 +18,13 @@ header {
 .about {
   border-top-right-radius: 90px;
 }
+
+.contact {
+  border-top-left-radius: 90px;
+  background-image: url(./assets/contact-section.png);
+  height: 80vh;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: bottom left ;
+
+}
