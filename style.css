@@ -4,3 +4,13 @@ header {
   background-size: cover;
   height: 90vh;
 }
+
+.icon {
+  width: 25px;
+  height: 25px;
+  margin-right: 10px;
+}
+
+.icons {
+  list-style-type: none;
+}
